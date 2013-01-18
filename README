@@ -1,0 +1,1 @@
+This is the final set of projects that is built by my group (two people) in the class Principles of Data Management.  Project 1 is a paged file reader/writer, project 2 is a record file manager which supports insertion and deletion in a table, project 3 is an index manager that supports index-lookup with B+ trees, and project 4 is a query engine with runtime relational operators.
