@@ -1,8 +1,8 @@
-This is a set of 4 group projects (two people) in the class Principles of Data Management.
+This is a set of four group projects in the class Principles of Data Management.  They are written in C++ by a group of two people.
 
 Project themes:
 - Project 1 is a paged file reader/writer.
-- Project 2 is a record file manager which supports insertion and deletion in a table.
+- Project 2 is a record file manager that supports insertion and deletion in a table.
 - Project 3 is an index manager that supports index-lookup with B+ trees.
 - Project 4 is a query engine with runtime relational operators.
 
